@@ -1,0 +1,27 @@
+test_01_home_and_static_assets (test_http.TestHTTP.test_01_home_and_static_assets) ... ok
+test_02_create_and_read (test_http.TestHTTP.test_02_create_and_read) ... ok
+test_03_list_tasks (test_http.TestHTTP.test_03_list_tasks) ... ok
+test_04_update_and_complete (test_http.TestHTTP.test_04_update_and_complete) ... ok
+test_05_reopen (test_http.TestHTTP.test_05_reopen) ... ok
+test_06_delete (test_http.TestHTTP.test_06_delete) ... ok
+test_07_invalid_empty_title (test_http.TestHTTP.test_07_invalid_empty_title) ... ok
+test_08_invalid_long_fields (test_http.TestHTTP.test_08_invalid_long_fields) ... ok
+test_09_bad_json (test_http.TestHTTP.test_09_bad_json) ... ok
+test_10_json_array (test_http.TestHTTP.test_10_json_array) ... ok
+test_11_nonexistent_resource (test_http.TestHTTP.test_11_nonexistent_resource) ... ok
+test_12_unknown_routes (test_http.TestHTTP.test_12_unknown_routes) ... ok
+test_13_accents_and_unicode (test_http.TestHTTP.test_13_accents_and_unicode) ... ok
+test_14_reject_bad_update (test_http.TestHTTP.test_14_reject_bad_update) ... ok
+test_15_database_survives_new_repository (test_http.TestHTTP.test_15_database_survives_new_repository) ... ok
+test_create_and_list (test_model.TestTasks.test_create_and_list) ... ok
+test_delete (test_model.TestTasks.test_delete) ... ok
+test_empty_title_rejected (test_model.TestTasks.test_empty_title_rejected) ... ok
+test_long_description_rejected (test_model.TestTasks.test_long_description_rejected) ... ok
+test_long_title_rejected (test_model.TestTasks.test_long_title_rejected) ... ok
+test_missing_item (test_model.TestTasks.test_missing_item) ... ok
+test_update_and_complete (test_model.TestTasks.test_update_and_complete) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 0.565s
+
+OK
